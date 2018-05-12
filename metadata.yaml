@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5353'
     url: http://www.gutenberg.org/2009/agents/5353
 description: Popular essay on the life of the prophet of Islam.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14064#Mohammed-The-Prophet-of-Islam
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2004-11-16'
 gutenberg_type: Text
